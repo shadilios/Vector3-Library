@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vector3-math", "vector3-math.csproj", "{ECFAFD56-0571-4410-88EA-93AF8CC4E578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECFAFD56-0571-4410-88EA-93AF8CC4E578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFAFD56-0571-4410-88EA-93AF8CC4E578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFAFD56-0571-4410-88EA-93AF8CC4E578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFAFD56-0571-4410-88EA-93AF8CC4E578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B2771B6-F91B-4D4C-AD41-3C8CC27A1860}
+	EndGlobalSection
+EndGlobal
